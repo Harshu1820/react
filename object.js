@@ -1,10 +1,10 @@
 const Object1 = {
-    name: "Manish",
+    name: "Harshada",
     count: [1, 2, 3, 4, 5]
 };
 
 function changeName() {
-    Object1.name = "Manish Fale";
+    Object1.name = "Harshu";
     const multiply = (x, y) => x * y;
     return multiply;
 }
